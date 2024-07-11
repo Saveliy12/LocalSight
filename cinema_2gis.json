@@ -1,0 +1,2403 @@
+﻿[
+    {
+      "address": {
+        "building_id": "7741197514707348",
+        "components": [
+          {
+            "number": "43а",
+            "street": "Камышинская",
+            "street_id": "7741300593919162",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "432054"
+      },
+      "address_name": "Камышинская, 43а",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118167998",
+          "name": "Ульяновск городской округ",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_default": true,
+            "is_district_area_center": true,
+            "is_region_center": true
+          },
+          "id": "7741184629801014",
+          "is_default": true,
+          "name": "Ульяновск",
+          "type": "city"
+        },
+        {
+          "id": "7741171744899074",
+          "name": "Засвияжский район",
+          "type": "district"
+        },
+        {
+          "id": "7741223284506638",
+          "name": "2-й микрорайон УЗТС",
+          "type": "living_area"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            },
+            {
+              "id": "70000201006750774",
+              "name": "Оплата эл. кошельком",
+              "tag": "general_payment_type_internet"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "text": "+7 (8422) 61‒10‒10",
+              "comment": "автоинформатор",
+              "print_text": "+7 (8422) 61‒10‒10",
+              "type": "phone",
+              "value": "+78422611010"
+            },
+            {
+              "text": "+7 (8422) 61‒36‒69",
+              "comment": "администрация",
+              "print_text": "+7 (8422) 61‒36‒69",
+              "type": "phone",
+              "value": "+78422613669"
+            },
+            {
+              "type": "website",
+              "text": "luna73.ru",
+              "value": "http://link.2gis.com/1.2/22615F81/online/20230301/project55/7741090140524157/null/5543436989G2J887116GGGGG32443395G6G418734745188HqEpt7A767J73G4I1G42J4JGJ3344uv6A9718A026371H1J4AH13e?http://luna73.ru",
+              "url": "http://luna73.ru"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/lunakino",
+              "value": "https://vk.com/lunakino",
+              "url": "https://vk.com/lunakino"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2023-03-15T11:52:46.000Z"
+      },
+      "external_content": [
+        {
+          "count": 11,
+          "main_photo_url": "https://i8.photo.2gis.com/main/branch/55/7741090140524157/common",
+          "subtype": "common",
+          "type": "photo_album"
+        }
+      ],
+      "flags": {
+        "badges": [
+          {
+            "collection_uid": "cb4f8420-4b00-11e9-b2cf-914e2e363cf4",
+            "text": "2 место",
+            "type": "award2018"
+          }
+        ],
+        "photos": true
+      },
+      "floors": {
+        "ground_count": 2
+      },
+      "full_name": "Ульяновск, Камышинская, 43а",
+      "geometry": {
+        "centroid": "POINT(48.287464 54.278573)",
+        "selection": "POINT(48.287464 54.278573)"
+      },
+      "group": [
+        {
+          "id": "7741197514707348",
+          "type": "building"
+        }
+      ],
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "7741090140524157_5543436989G2J887112GGGGG32443395G6G418734745188HqEpt7A767J73G4I1G32J4JGJ3344uv6A9718A026371H1J4AH1e9",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.361565 54.6575,48.286978 54.278539)"
+              ],
+              "points": [
+                "POINT(48.286977973894928 54.278538625939284)"
+              ],
+              "vectors": [
+                "LINESTRING(48.286852 54.27859,48.286978 54.278539)"
+              ]
+            },
+            "id": "7741605536596291",
+            "is_primary": false,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.361565 54.6575,48.286978 54.278539)"
+              ],
+              "points": [
+                "POINT(48.286977973894928 54.278538625939284)"
+              ],
+              "vectors": [
+                "LINESTRING(48.286852 54.27859,48.286978 54.278539)"
+              ]
+            },
+            "id": "7741605536596291",
+            "is_primary": false,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_parking": [
+          {
+            "id": "70030076199772101"
+          },
+          {
+            "id": "70030076430252905"
+          },
+          {
+            "id": "70030076199442600"
+          },
+          {
+            "id": "7741618457083062"
+          },
+          {
+            "id": "70030076214344155"
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 280,
+            "id": "70030076176828709",
+            "name": "Городская поликлиника №4",
+            "route_types": [
+              "bus",
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Луна, кинотеатр",
+      "name_ex": {
+        "extension": "кинотеатр",
+        "primary": "Луна",
+        "short_name": "Луна"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "7741098730458749",
+        "name": "Луна, кинотеатр"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.278533,
+        "lon": 48.286991
+      },
+      "purpose_name": "Культурно-развлекательный комплекс",
+      "region_id": "55",
+      "reviews": {
+        "general_rating": 3.9,
+        "general_review_count": 39,
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "rating": 4.7,
+            "recommendation_count": 5,
+            "review_count": 9,
+            "tag": "flamp"
+          }
+        ],
+        "org_rating": 3.9,
+        "org_review_count": 39,
+        "rating": 4.7,
+        "recommendation_count": 5,
+        "review_count": 9
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        },
+        {
+          "alias": "centry_virtualnojj_realnosti",
+          "id": "112442",
+          "kind": "additional",
+          "name": "Центры виртуальной реальности",
+          "parent_id": "2",
+          "short_id": 112442
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "01:00"
+            }
+          ]
+        }
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "structure_info": {
+        "material": "Кирпич"
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "7741197514732971",
+        "building_name": "ТРК Аквамолл",
+        "components": [
+          {
+            "number": "108",
+            "street": "Московское шоссе",
+            "street_id": "7741300593918547",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "432005"
+      },
+      "address_comment": "2 этаж",
+      "address_name": "Московское шоссе, 108",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118167998",
+          "name": "Ульяновск городской округ",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_default": true,
+            "is_district_area_center": true,
+            "is_region_center": true
+          },
+          "id": "7741184629801014",
+          "is_default": true,
+          "name": "Ульяновск",
+          "type": "city"
+        },
+        {
+          "id": "7741171744899074",
+          "name": "Засвияжский район",
+          "type": "district"
+        },
+        {
+          "id": "7741223284506636",
+          "name": "18-й микрорайон",
+          "type": "living_area"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            },
+            {
+              "id": "70000201006750774",
+              "name": "Оплата эл. кошельком",
+              "tag": "general_payment_type_internet"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "type": "phone",
+              "text": "+7 (495) 419‒33‒44",
+              "print_text": "+7 (495) 419‒33‒44",
+              "value": "+74954193344"
+            },
+            {
+              "type": "website",
+              "text": "kinoteatr.ru",
+              "value": "http://link.2gis.com/1.2/E76DE6EE/online/20230301/project55/7741090140654664/null/5543436989G2J887116GGGGG32443395G6G418734775695HqEpt7A767J73G4I1G42J4JGJ3344uv6A9718A026382H1J4AH10d?http://kinoteatr.ru",
+              "url": "http://kinoteatr.ru"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/cinemapark",
+              "value": "https://vk.com/cinemapark",
+              "url": "https://vk.com/cinemapark"
+            },
+            {
+              "type": "youtube",
+              "text": "https://youtube.com/user/cinemaparkru",
+              "value": "https://youtube.com/user/cinemaparkru",
+              "url": "https://youtube.com/user/cinemaparkru"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2022-12-27T12:15:56.000Z"
+      },
+      "email_for_sending": {
+        "allowed": true
+      },
+      "external_content": [
+        {
+          "count": 4,
+          "main_photo_url": "https://i3.photo.2gis.com/main/branch/55/7741090140654664/common",
+          "subtype": "common",
+          "type": "photo_album"
+        }
+      ],
+      "flags": {
+        "badges": [
+          {
+            "collection_uid": "cb4f8420-4b00-11e9-b2cf-914e2e363cf4",
+            "text": "1 место",
+            "type": "award2018"
+          }
+        ],
+        "photos": true
+      },
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "7741090140654664_5543436989G2J887112GGGGG32443395G6G418734775695HqEpt7A767J73G4I1G32J4JGJ3344uv6A9718A026382H1J4AH1c8",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(49.218706 53.792162,48.361013 54.306325)"
+              ],
+              "points": [
+                "POINT(48.361012987361747 54.306324755005015)"
+              ],
+              "vectors": [
+                "LINESTRING(48.36112 54.30626,48.361013 54.306325)"
+              ]
+            },
+            "id": "7741605536595970",
+            "is_primary": false,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(49.218706 53.792162,48.361013 54.306325)"
+              ],
+              "points": [
+                "POINT(48.361012987361747 54.306324755005015)"
+              ],
+              "vectors": [
+                "LINESTRING(48.36112 54.30626,48.361013 54.306325)"
+              ]
+            },
+            "id": "7741605536595970",
+            "is_primary": false,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_parking": [
+          {
+            "id": "70030076333242730"
+          },
+          {
+            "id": "70030076333242523"
+          },
+          {
+            "id": "7741618421497899"
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 240,
+            "id": "7741347838558810",
+            "name": "ТЦ Аквамолл",
+            "route_types": [
+              "bus",
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Синема Парк, кинотеатр",
+      "name_ex": {
+        "extension": "кинотеатр",
+        "primary": "Синема Парк",
+        "short_name": "Синема Парк"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "7741098730528373",
+        "name": "Синема Парк, кинотеатр"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.307174,
+        "lon": 48.360732
+      },
+      "region_id": "55",
+      "reviews": {
+        "general_rating": 4,
+        "general_review_count": 80,
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "rating": 4.2,
+            "recommendation_count": 3,
+            "review_count": 19,
+            "tag": "flamp"
+          }
+        ],
+        "org_rating": 4,
+        "org_review_count": 80,
+        "rating": 4.2,
+        "recommendation_count": 3,
+        "review_count": 19
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "04:00"
+            }
+          ]
+        }
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "7741197514704549",
+        "building_name": "ТРК Пушкаревское кольцо",
+        "components": [
+          {
+            "number": "91",
+            "street": "Московское шоссе",
+            "street_id": "7741300593918547",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "432032"
+      },
+      "address_comment": "3 этаж",
+      "address_name": "Московское шоссе, 91",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118167998",
+          "name": "Ульяновск городской округ",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_default": true,
+            "is_district_area_center": true,
+            "is_region_center": true
+          },
+          "id": "7741184629801014",
+          "is_default": true,
+          "name": "Ульяновск",
+          "type": "city"
+        },
+        {
+          "id": "7741171744899074",
+          "name": "Засвияжский район",
+          "type": "district"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            },
+            {
+              "id": "70000201006750775",
+              "name": "Оплата через банк",
+              "tag": "general_payment_type_bank"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "type": "phone",
+              "text": "+7 (8422) 24‒01‒01",
+              "print_text": "+7 (8422) 24‒01‒01",
+              "value": "+78422240101"
+            },
+            {
+              "type": "website",
+              "text": "www.matrix-cinema.ru",
+              "value": "http://link.2gis.com/1.2/82C06F51/online/20230301/project55/7741090140585865/null/5543436989G2J887116GGGGG32443395G6G4187347A6896HqEpt7A767J73G4I1G42J4JGJ3344uv6A9718A026373H1J4AH18B?http://www.matrix-cinema.ru",
+              "url": "http://www.matrix-cinema.ru"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/cinematrix",
+              "value": "https://vk.com/cinematrix",
+              "url": "https://vk.com/cinematrix"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2022-12-27T14:38:15.000Z"
+      },
+      "email_for_sending": {
+        "allowed": true
+      },
+      "external_content": [
+        {
+          "count": 19,
+          "main_photo_url": "https://i3.photo.2gis.com/main/branch/55/7741090140585865/common",
+          "subtype": "common",
+          "type": "photo_album"
+        },
+        {
+          "count": 1,
+          "main_photo_url": "https://i2.photo.2gis.com/main/geo/55/7741197514704549/view",
+          "subtype": "view",
+          "type": "photo_album"
+        }
+      ],
+      "flags": {
+        "badges": [
+          {
+            "collection_uid": "cb4f8420-4b00-11e9-b2cf-914e2e363cf4",
+            "text": "3 место",
+            "type": "award2018"
+          }
+        ],
+        "photos": true
+      },
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "7741090140585865_5543436989G2J887112GGGGG32443395G6G4187347A6896HqEpt7A767J73G4I1G32J4JGJ3344uv6A9718A026373H1J4AH1dg",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.352718 54.36114,48.351155 54.305254)"
+              ],
+              "points": [
+                "POINT(48.351155234759929 54.305254126798353)"
+              ],
+              "vectors": [
+                "LINESTRING(48.351002 54.305263,48.351155 54.305254)"
+              ]
+            },
+            "id": "7741605536596534",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.352718 54.36114,48.351155 54.305254)"
+              ],
+              "points": [
+                "POINT(48.351155234759929 54.305254126798353)"
+              ],
+              "vectors": [
+                "LINESTRING(48.351002 54.305263,48.351155 54.305254)"
+              ]
+            },
+            "id": "7741605536596534",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_parking": [
+          {
+            "id": "7741618421497916"
+          },
+          {
+            "id": "70030076273879091"
+          },
+          {
+            "id": "7741618421497915"
+          },
+          {
+            "id": "70030076180674628"
+          },
+          {
+            "id": "70030076166418288"
+          },
+          {
+            "id": "7741618421498071"
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 80,
+            "id": "7741347838558280",
+            "name": "ТЦ Пушкаревское кольцо",
+            "route_types": [
+              "bus",
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Матрица, многозальный кинотеатр",
+      "name_ex": {
+        "extension": "многозальный кинотеатр",
+        "primary": "Матрица",
+        "short_name": "Матрица"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "7741098730502320",
+        "name": "Матрица, многозальный кинотеатр"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.305069,
+        "lon": 48.352918
+      },
+      "region_id": "55",
+      "reviews": {
+        "general_rating": 4,
+        "general_review_count": 39,
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "rating": 4.3,
+            "recommendation_count": 4,
+            "review_count": 11,
+            "tag": "flamp"
+          }
+        ],
+        "org_rating": 4,
+        "org_review_count": 39,
+        "rating": 4.3,
+        "recommendation_count": 4,
+        "review_count": 11
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "09:00",
+              "to": "24:00"
+            }
+          ]
+        }
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "7741197514723339",
+        "components": [
+          {
+            "number": "148",
+            "street": "Радищева",
+            "street_id": "7741300593918620",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "432027"
+      },
+      "address_name": "Радищева, 148",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118167998",
+          "name": "Ульяновск городской округ",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_default": true,
+            "is_district_area_center": true,
+            "is_region_center": true
+          },
+          "id": "7741184629801014",
+          "is_default": true,
+          "name": "Ульяновск",
+          "type": "city"
+        },
+        {
+          "id": "7741171744899073",
+          "name": "Ленинский район",
+          "type": "district"
+        },
+        {
+          "detailed_subtype": "microdistrict",
+          "id": "7741223284506630",
+          "name": "Север м-н",
+          "type": "living_area"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "text": "+7 (8422) 27‒40‒09",
+              "comment": "касса",
+              "print_text": "+7 (8422) 27‒40‒09",
+              "type": "phone",
+              "value": "+78422274009"
+            },
+            {
+              "type": "website",
+              "text": "ul-cinema.ru",
+              "value": "http://link.2gis.com/1.2/9A4CDAA3/online/20230301/project55/7741090140524175/null/5543436989G2J887116GGGGG32443395G6G4187347451A6HqEpt7A767J73G4I1G42J4JGJ3344uv6A9718A026374H1J4AH145?http://ul-cinema.ru",
+              "url": "http://ul-cinema.ru"
+            },
+            {
+              "type": "twitter",
+              "text": "https://twitter.com/lumierekino",
+              "value": "https://twitter.com/lumierekino",
+              "url": "https://twitter.com/lumierekino"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/lumiere73",
+              "value": "https://vk.com/lumiere73",
+              "url": "https://vk.com/lumiere73"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2023-02-17T10:51:59.000Z"
+      },
+      "email_for_sending": {
+        "allowed": true
+      },
+      "external_content": [
+        {
+          "count": 2,
+          "main_photo_url": "https://i6.photo.2gis.com/main/branch/55/7741090140524175/common",
+          "subtype": "common",
+          "type": "photo_album"
+        }
+      ],
+      "flags": {
+        "photos": true
+      },
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "7741090140524175_5543436989G2J887112GGGGG32443395G6G4187347451A6HqEpt7A767J73G4I1G32J4JGJ3344uv6A9718A026374H1J4AH1ce",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.448665 54.020346,48.395511 54.342032)"
+              ],
+              "points": [
+                "POINT(48.395511258712375 54.342031925272281)"
+              ],
+              "vectors": [
+                "LINESTRING(48.395378 54.341987,48.395511 54.342032)"
+              ]
+            },
+            "id": "7741605536599730",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.448665 54.020346,48.395511 54.342032)"
+              ],
+              "points": [
+                "POINT(48.395511258712375 54.342031925272281)"
+              ],
+              "vectors": [
+                "LINESTRING(48.395378 54.341987,48.395511 54.342032)"
+              ]
+            },
+            "id": "7741605536599730",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_parking": [
+          {
+            "id": "70030076192348243"
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 20,
+            "id": "7741347838558420",
+            "name": "Кинотеатр Люмьер",
+            "route_types": [
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Люмьер, кинозал",
+      "name_ex": {
+        "extension": "кинозал",
+        "primary": "Люмьер",
+        "short_name": "Люмьер"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "7741098730458767",
+        "name": "Люмьер, кинозал"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.342036,
+        "lon": 48.395525
+      },
+      "region_id": "55",
+      "reviews": {
+        "general_rating": 4.1,
+        "general_review_count": 9,
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "rating": 3,
+            "review_count": 1,
+            "tag": "flamp"
+          }
+        ],
+        "org_rating": 4.1,
+        "org_review_count": 9,
+        "rating": 3,
+        "review_count": 1
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "20:00"
+            }
+          ]
+        },
+        "comment": "до последнего сеанса: пн-вс"
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "7741197514709077",
+        "components": [
+          {
+            "number": "2",
+            "street": "Луначарского",
+            "street_id": "7741300593919541",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "432012"
+      },
+      "address_name": "Луначарского, 2",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118167998",
+          "name": "Ульяновск городской округ",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_default": true,
+            "is_district_area_center": true,
+            "is_region_center": true
+          },
+          "id": "7741184629801014",
+          "is_default": true,
+          "name": "Ульяновск",
+          "type": "city"
+        },
+        {
+          "id": "7741171744899075",
+          "name": "Железнодорожный район",
+          "type": "district"
+        },
+        {
+          "detailed_subtype": "microdistrict",
+          "id": "7741223284506634",
+          "name": "Киндяковка м-н",
+          "type": "living_area"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "text": "+7 (8422) 27‒15‒44",
+              "comment": "касса",
+              "print_text": "+7 (8422) 27‒15‒44",
+              "type": "phone",
+              "value": "+78422271544"
+            },
+            {
+              "type": "website",
+              "text": "современник73.рф",
+              "value": "http://link.2gis.com/1.2/E0B13133/online/20230301/project55/70000001041894869/null/5543436989G2J81301I4GGGG32443395G6G4187347AA4B7AqEpt7A767J73G4I1G495I5GJ3344uv6A9718102273H5H3J2HH0e4?http://xn--73-dlcmasonkafzk.xn--p1ai",
+              "url": "http://современник73.рф"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/club155852763",
+              "value": "https://vk.com/club155852763",
+              "url": "https://vk.com/club155852763"
+            },
+            {
+              "type": "odnoklassniki",
+              "text": "https://ok.ru/kinokon",
+              "value": "https://ok.ru/kinokon",
+              "url": "https://ok.ru/kinokon"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2022-07-06T12:18:56.000Z"
+      },
+      "email_for_sending": {
+        "allowed": true
+      },
+      "external_content": [],
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": true,
+      "has_pinned_goods": true,
+      "has_realty": false,
+      "id": "70000001041894869_5543436989G2J81301I0GGGG32443395G6G4187347AA4B7AqEpt7A767J73G4I1G395I5GJ3344uv6A9718102273H5H3J2HH0A2",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(48.934029 55.058563,48.327873 54.263217)"
+              ],
+              "points": [
+                "POINT(48.327872968720712 54.263217231041445)"
+              ],
+              "vectors": [
+                "LINESTRING(48.327935 54.263299,48.327873 54.263217)"
+              ]
+            },
+            "id": "70030076250680965",
+            "is_primary": false,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(48.934029 55.058563,48.327873 54.263217)"
+              ],
+              "points": [
+                "POINT(48.327872968720712 54.263217231041445)"
+              ],
+              "vectors": [
+                "LINESTRING(48.327935 54.263299,48.327873 54.263217)"
+              ]
+            },
+            "id": "70030076250680965",
+            "is_primary": false,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_parking": [
+          {
+            "id": "70030076171195440"
+          },
+          {
+            "id": "7741618421497959"
+          },
+          {
+            "id": "70030076362911870"
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 260,
+            "id": "7741347838558509",
+            "name": "ДК Современник (Инзенская)",
+            "route_types": [
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Современник, кинотеатр",
+      "name_ex": {
+        "extension": "кинотеатр",
+        "primary": "Современник",
+        "short_name": "Современник"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "70000001041894868",
+        "name": "Современник, кинотеатр"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.263209,
+        "lon": 48.327867
+      },
+      "region_id": "55",
+      "reviews": {
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "tag": "flamp"
+          }
+        ]
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "01:00"
+            }
+          ]
+        },
+        "comment": "касса: пн-вс 11:00-20:00"
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "7741197514722635",
+        "components": [
+          {
+            "number": "5",
+            "street": "Дачная",
+            "street_id": "7741300593920475",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "433310"
+      },
+      "address_comment": "1 этаж",
+      "address_name": "Дачная, 5",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118168001",
+          "name": "Ульяновский район",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "id": "7741184629800969",
+          "name": "рп. Ишеевка",
+          "type": "settlement"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "type": "phone",
+              "text": "+7 (84254) 2‒11‒40",
+              "print_text": "+7 (84254) 2‒11‒40",
+              "value": "+78425421140"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/kinozal_zvezdniy",
+              "value": "https://vk.com/kinozal_zvezdniy",
+              "url": "https://vk.com/kinozal_zvezdniy"
+            },
+            {
+              "type": "odnoklassniki",
+              "text": "https://ok.ru/kinozalzve",
+              "value": "https://ok.ru/kinozalzve",
+              "url": "https://ok.ru/kinozalzve"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "created_at": "2016-05-29T03:00:00.000Z",
+        "updated_at": "2022-07-15T11:06:57.000Z"
+      },
+      "external_content": [
+        {
+          "count": 6,
+          "main_photo_url": "https://i6.photo.2gis.com/main/geo/55/7741197514722635/view",
+          "subtype": "view",
+          "type": "photo_album"
+        }
+      ],
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "70000001024829810_5543436989G2J81301I0GGGG32443395G6G4187347A39B21qEpt7A767J73G4I1G395I5GJ3344uv6A9718102256H6H3J2HH0gg",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.821348 55.315142,48.270104 54.421487)"
+              ],
+              "points": [
+                "POINT(48.270103929766492 54.421487491454883)"
+              ],
+              "vectors": [
+                "LINESTRING(48.270061 54.421574,48.270104 54.421487)"
+              ]
+            },
+            "id": "70030076244604337",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(47.821348 55.315142,48.270104 54.421487)"
+              ],
+              "points": [
+                "POINT(48.270103929766492 54.421487491454883)"
+              ],
+              "vectors": [
+                "LINESTRING(48.270061 54.421574,48.270104 54.421487)"
+              ]
+            },
+            "id": "70030076244604337",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 700,
+            "id": "7741347882493639",
+            "name": "3-й микрорайон",
+            "route_types": [
+              "bus",
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Звездный, кинозал",
+      "name_ex": {
+        "extension": "кинозал",
+        "primary": "Звездный",
+        "short_name": "Звездный"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "70000001024829809",
+        "name": "Звездный, кинозал"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.421479,
+        "lon": 48.270108
+      },
+      "region_id": "55",
+      "reviews": {
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "tag": "flamp"
+          }
+        ]
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "10:00",
+              "to": "22:00"
+            }
+          ]
+        }
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "7741197514721918",
+        "components": [
+          {
+            "number": "10",
+            "street": "Мира",
+            "street_id": "7741300593921166",
+            "type": "street_number"
+          }
+        ],
+        "postcode": "433300"
+      },
+      "address_name": "Мира, 10",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118168000",
+          "name": "Новоульяновск городской округ",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_district_area_center": true
+          },
+          "id": "7741184629800991",
+          "name": "Новоульяновск",
+          "type": "city"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "type": "phone",
+              "text": "+7 (84255) 7‒56‒87",
+              "print_text": "+7 (84255) 7‒56‒87",
+              "value": "+78425575687"
+            },
+            {
+              "text": "+7‒917‒625‒84‒42",
+              "comment": "руководитель - пн-вс 12:00-20-00",
+              "print_text": "+7‒917‒625‒84‒42",
+              "type": "phone",
+              "value": "+79176258442"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/mir_3d_novoul",
+              "value": "https://vk.com/mir_3d_novoul",
+              "url": "https://vk.com/mir_3d_novoul"
+            },
+            {
+              "type": "odnoklassniki",
+              "text": "https://ok.ru/kinozalmir3d",
+              "value": "https://ok.ru/kinozalmir3d",
+              "url": "https://ok.ru/kinozalmir3d"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2022-09-28T13:08:11.000Z"
+      },
+      "external_content": [],
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "70000001046467818_5543436989G2J81301I0GGGG32443395G6G4187347677B29qEpt7A767J73G4I1G395I5GJ3344uv6A9718102278H7H3J2HH0C6",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(48.899036 53.297457,48.383365 54.154243)"
+              ],
+              "points": [
+                "POINT(48.38336540725038 54.154243161986848)"
+              ],
+              "vectors": [
+                "LINESTRING(48.383416 54.154159,48.383365 54.154243)"
+              ]
+            },
+            "id": "7741605536597981",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(48.899036 53.297457,48.383365 54.154243)"
+              ],
+              "points": [
+                "POINT(48.38336540725038 54.154243161986848)"
+              ],
+              "vectors": [
+                "LINESTRING(48.383416 54.154159,48.383365 54.154243)"
+              ]
+            },
+            "id": "7741605536597981",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_parking": [
+          {
+            "id": "70030076167942136"
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 110,
+            "id": "70030076140729758",
+            "name": "Автостанция Мира",
+            "route_types": [
+              "shuttle_bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "Мир 3D, кинозал",
+      "name_ex": {
+        "extension": "кинозал",
+        "primary": "Мир 3D"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "70000001046467817",
+        "name": "Мир 3D, кинозал"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.154252,
+        "lon": 48.38336
+      },
+      "region_id": "55",
+      "reviews": {
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "tag": "flamp"
+          }
+        ]
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "08:00",
+              "to": "22:00"
+            }
+          ]
+        }
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    },
+    {
+      "address": {
+        "building_id": "70030076130308765",
+        "components": [
+          {
+            "number": "2",
+            "street": "Советская",
+            "street_id": "70030076130290108",
+            "type": "street_number"
+          }
+        ]
+      },
+      "address_comment": "1 этаж",
+      "address_name": "Советская, 2",
+      "adm_div": [
+        {
+          "id": "1",
+          "name": "Россия",
+          "type": "country"
+        },
+        {
+          "id": "1267655302447185",
+          "name": "Ульяновская область",
+          "type": "region"
+        },
+        {
+          "id": "70030076118168021",
+          "name": "Чердаклинский район",
+          "type": "district_area"
+        },
+        {
+          "city_alias": "ulyanovsk",
+          "flags": {
+            "is_district_area_center": true
+          },
+          "id": "70030076129749269",
+          "name": "рп. Чердаклы",
+          "type": "settlement"
+        }
+      ],
+      "attribute_groups": [
+        {
+          "attributes": [
+            {
+              "id": "70000201006750805",
+              "name": "Оплата картой",
+              "tag": "general_payment_type_card"
+            },
+            {
+              "id": "70000201006750769",
+              "name": "Наличный расчёт",
+              "tag": "general_payment_type_cash"
+            }
+          ],
+          "is_context": false,
+          "is_primary": false,
+          "name": "Способы оплаты",
+          "rubric_ids": []
+        }
+      ],
+      "city_alias": "ulyanovsk",
+      "contact_groups": [
+        {
+          "contacts": [
+            {
+              "type": "phone",
+              "text": "+7 (84231) 2‒16‒32",
+              "print_text": "+7 (84231) 2‒16‒32",
+              "value": "+78423121632"
+            },
+            {
+              "type": "phone",
+              "text": "+7‒902‒120‒40‒92",
+              "print_text": "+7‒902‒120‒40‒92",
+              "value": "+79021204092"
+            },
+            {
+              "type": "vkontakte",
+              "text": "https://vk.com/dk_cherdakly_kino",
+              "value": "https://vk.com/dk_cherdakly_kino",
+              "url": "https://vk.com/dk_cherdakly_kino"
+            }
+          ]
+        }
+      ],
+      "context": {},
+      "dates": {
+        "updated_at": "2022-10-27T14:22:13.000Z"
+      },
+      "external_content": [
+        {
+          "count": 1,
+          "main_photo_url": "http://photos.wikimapia.org/p/00/05/16/33/99_full.jpg",
+          "subtype": "common",
+          "type": "photo_album"
+        }
+      ],
+      "flags": {
+        "photos": true
+      },
+      "has_apartments_info": false,
+      "has_discount": false,
+      "has_dynamic_congestion": false,
+      "has_exchange": false,
+      "has_goods": false,
+      "has_pinned_goods": false,
+      "has_realty": false,
+      "id": "70000001026571399_5543436989G2J81301I0GGGG32443395G6G41873477816AAqEpt7A767J73G4I1G395I5GJ3344uv6A9718102258H8H3J2HH0A7",
+      "is_promoted": false,
+      "links": {
+        "database_entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(49.548556 53.64814,48.847747 54.361488)"
+              ],
+              "points": [
+                "POINT(48.847746798430109 54.3614884067983)"
+              ],
+              "vectors": [
+                "LINESTRING(48.847823 54.361411,48.847747 54.361488)"
+              ]
+            },
+            "id": "70030076130309679",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "entrances": [
+          {
+            "geometry": {
+              "normals": [
+                "LINESTRING(49.548556 53.64814,48.847747 54.361488)"
+              ],
+              "points": [
+                "POINT(48.847746798430109 54.3614884067983)"
+              ],
+              "vectors": [
+                "LINESTRING(48.847823 54.361411,48.847747 54.361488)"
+              ]
+            },
+            "id": "70030076130309679",
+            "is_primary": true,
+            "is_visible_on_map": true
+          }
+        ],
+        "nearest_stations": [
+          {
+            "distance": 80,
+            "id": "70030076142586565",
+            "name": "Универмаг",
+            "route_types": [
+              "bus"
+            ]
+          }
+        ]
+      },
+      "locale": "ru_RU",
+      "name": "ДК Чердаклы, кинотеатр",
+      "name_ex": {
+        "extension": "кинотеатр",
+        "primary": "ДК Чердаклы",
+        "short_name": "ДК Чердаклы"
+      },
+      "org": {
+        "branch_count": 1,
+        "id": "70000001026571398",
+        "name": "ДК Чердаклы, кинотеатр"
+      },
+      "poi_category": "cinema",
+      "point": {
+        "lat": 54.361496,
+        "lon": 48.847739
+      },
+      "region_id": "55",
+      "reviews": {
+        "general_rating": 5,
+        "general_review_count": 1,
+        "is_reviewable": true,
+        "is_reviewable_on_flamp": true,
+        "items": [
+          {
+            "is_reviewable": true,
+            "tag": "2gis_reviews"
+          },
+          {
+            "is_reviewable": true,
+            "tag": "flamp"
+          }
+        ],
+        "org_rating": 5,
+        "org_review_count": 1
+      },
+      "rubrics": [
+        {
+          "alias": "kinoteatry",
+          "id": "192",
+          "kind": "primary",
+          "name": "Кинотеатры",
+          "parent_id": "2",
+          "short_id": 192
+        }
+      ],
+      "schedule": {
+        "Fri": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        },
+        "Mon": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        },
+        "Sat": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        },
+        "Sun": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        },
+        "Thu": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        },
+        "Tue": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        },
+        "Wed": {
+          "working_hours": [
+            {
+              "from": "11:00",
+              "to": "23:30"
+            }
+          ]
+        }
+      },
+      "segment_id": "0",
+      "stat": {
+        "adst": 1608260400,
+        "is_advertised": false,
+        "rubr": "192",
+        "source_type": 2
+      },
+      "timezone_offset": 240,
+      "type": "branch"
+    }
+  ]
